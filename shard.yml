@@ -1,0 +1,9 @@
+name: naive_chain.cr
+version: 0.1.0
+
+authors:
+  - tobias <s1190170@gmail.com>
+
+crystal: 0.22.0
+
+license: MIT
